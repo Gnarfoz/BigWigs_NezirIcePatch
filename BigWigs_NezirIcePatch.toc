@@ -1,0 +1,13 @@
+## Interface: 40100
+## Title: Big Wigs |cffff0000+|r|cffffffffNezir Ice Patch|r
+## Notes: Adds a cooldown timer for Nezir's Ice Patch ability.
+## Notes-deDE: Fügt einen Timer für Nezirs "Eisfeld"-Fähigkeit hinzu.
+## Version: @project-version@.@project-abbreviated-hash@
+## Author: Gnarfoz
+## X-Email: gnarfoz@gmail.com
+## X-Category: Raid
+## X-BigWigs-LoadOn-Zone: Throne of the Four Winds
+## Dependencies: BigWigs
+## LoadOnDemand: 1
+
+icepatch.lua
