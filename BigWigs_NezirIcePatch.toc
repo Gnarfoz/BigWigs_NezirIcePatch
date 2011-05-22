@@ -6,7 +6,6 @@
 ## Author: Gnarfoz
 ## X-Email: gnarfoz@gmail.com
 ## X-Category: Raid
-## X-BigWigs-LoadOn-Zone: Throne of the Four Winds
 ## Dependencies: BigWigs
 ## LoadOnDemand: 1
 
