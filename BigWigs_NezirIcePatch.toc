@@ -4,9 +4,10 @@
 ## Notes-deDE: Fügt einen Timer für Nezirs "Eisfeld"-Fähigkeit hinzu.
 ## Version: @project-version@.@project-abbreviated-hash@
 ## Author: Gnarfoz
+## LoadOnDemand: 1
+## Dependencies: BigWigs
+## X-BigWigs-LoadOn-ZoneId: 773
 ## X-Email: gnarfoz@gmail.com
 ## X-Category: Raid
-## Dependencies: BigWigs
-## LoadOnDemand: 1
 
 icepatch.lua
