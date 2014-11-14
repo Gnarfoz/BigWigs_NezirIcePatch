@@ -1,4 +1,4 @@
-## Interface: 50400
+## Interface: 60000
 ## Title: Big Wigs |cffff0000+|r|cffffffffNezir Ice Patch|r
 ## Notes: Adds a cooldown timer for Nezir's Ice Patch ability.
 ## Notes-deDE: Fügt einen Timer für Nezirs "Eisfeld"-Fähigkeit hinzu.
